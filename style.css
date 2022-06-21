@@ -1,0 +1,66 @@
+h1,h2,h3,h4,h5,p{
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.morenito{
+    width: 80px;
+    height: 80px;
+
+}
+
+.cabecera{
+    background-color: #5746ea;
+    height: 270px;
+}
+
+.color-body{
+    background-color: #1d204b;
+    border-radius: 15px;
+    
+}
+
+.textmoradito{
+    color:#535558;
+}
+
+.cabecera1{
+    background-color: #ff8b64;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+img{
+    height: 40px;
+    width: 80px !important;
+}
+
+.card{
+    width:99% !important;
+    border-radius: 20px;
+}
+.color-body2{
+    background-color: #56c2e6;
+
+}
+.color-body3{
+    background-color: #ff5e7d;
+
+}
+.color-body4{
+    background-color: #4bcf83;
+
+}
+.color-body5{
+    background-color: #7235d1;
+
+}
+.color-body6{
+    background-color: #f1c75c;
+
+}
+.centrar{
+    margin-top: 10vh;
+}
+
+
